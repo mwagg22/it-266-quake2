@@ -1,0 +1,62 @@
+﻿Build started 5/10/2019 6:31:38 PM.
+     1>Project "C:\GOG Games\quake2 (2)\quake2\ref_soft\ref_soft.vcxproj" on node 5 (Build target(s)).
+     1>CustomBuild:
+         Performing Custom Build Tools
+          Assembling: C:\GOG
+     1>MASM : fatal error A1000: cannot open file : C:\GOG
+         Microsoft (R) Macro Assembler Version 12.00.21005.1
+         Copyright (C) Microsoft Corporation.  All rights reserved.
+         
+         Performing Custom Build Tools
+          Assembling: C:\GOG
+     1>MASM : fatal error A1000: cannot open file : C:\GOG
+         Microsoft (R) Macro Assembler Version 12.00.21005.1
+         Copyright (C) Microsoft Corporation.  All rights reserved.
+         
+         Performing Custom Build Tools
+          Assembling: C:\GOG
+     1>MASM : fatal error A1000: cannot open file : C:\GOG
+         Microsoft (R) Macro Assembler Version 12.00.21005.1
+         Copyright (C) Microsoft Corporation.  All rights reserved.
+         
+         Performing Custom Build Tools
+          Assembling: C:\GOG
+     1>MASM : fatal error A1000: cannot open file : C:\GOG
+         Microsoft (R) Macro Assembler Version 12.00.21005.1
+         Copyright (C) Microsoft Corporation.  All rights reserved.
+         
+         Performing Custom Build Tools
+         Microsoft (R) Macro Assembler Version 12.00.21005.1
+         Copyright (C) Microsoft Corporation.  All rights reserved.
+         
+          Assembling: C:\GOG
+     1>MASM : fatal error A1000: cannot open file : C:\GOG
+         Performing Custom Build Tools
+          Assembling: C:\GOG
+     1>MASM : fatal error A1000: cannot open file : C:\GOG
+         Microsoft (R) Macro Assembler Version 12.00.21005.1
+         Copyright (C) Microsoft Corporation.  All rights reserved.
+         
+         Performing Custom Build Tools
+          Assembling: C:\GOG
+     1>MASM : fatal error A1000: cannot open file : C:\GOG
+         Microsoft (R) Macro Assembler Version 12.00.21005.1
+         Copyright (C) Microsoft Corporation.  All rights reserved.
+         
+         Performing Custom Build Tools
+          Assembling: C:\GOG
+     1>MASM : fatal error A1000: cannot open file : C:\GOG
+         Microsoft (R) Macro Assembler Version 12.00.21005.1
+         Copyright (C) Microsoft Corporation.  All rights reserved.
+         
+         Performing Custom Build Tools
+          Assembling: C:\GOG
+     1>MASM : fatal error A1000: cannot open file : C:\GOG
+         Microsoft (R) Macro Assembler Version 12.00.21005.1
+         Copyright (C) Microsoft Corporation.  All rights reserved.
+         
+     1>Done Building Project "C:\GOG Games\quake2 (2)\quake2\ref_soft\ref_soft.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.38
